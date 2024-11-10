@@ -1,4 +1,5 @@
-Hi, I'm Khadija Afzal 👋
+**Hi, I'm Khadija Afzal 👋**
+
 Enthusiastic and driven Computer Science undergraduate with expertise in databases, assembly language, and data analysis. Strong technical and practical skills, excelling in projects and assignments. Passionate about problem-solving and eager to contribute to innovative projects and make a meaningful impact in the technology field.
 
 📫 Connect with me:
@@ -59,6 +60,4 @@ Created a game in C++ using GLUT libraries, where a driver picks up and drops of
 PR Team Member - Fast Computing Society, National University of Computing and Emerging Sciences (2021 - Present)
 Social Media Officer - NASCON 2021
 Usher - ISWC Conference 2021
-📄 My CV
-Download My Sample CV
 
