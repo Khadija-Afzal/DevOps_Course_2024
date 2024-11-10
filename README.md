@@ -16,7 +16,9 @@ Enthusiastic and driven Computer Science undergraduate with expertise in databas
 📫 **Connect with me:
 **
 Email: khadijafst1@gmail.com
+
 LinkedIn: linkedin.com/in/khadija-afzal-856512226
+
 github: https://github.com/Khadija-Afzal
 
 🎯** Objective**
